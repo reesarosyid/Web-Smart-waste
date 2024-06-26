@@ -3,4 +3,4 @@ numpy==1.26.0
 plotly==5.22.0
 streamlit==1.29.0
 plotly==5.22.0
-openpyxl==1.1.0
+openpyxl==3.0.10
